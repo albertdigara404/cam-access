@@ -12,8 +12,8 @@ body{
 }
 
 .wrapper{
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     background-color: #eee;
     border-radius: 30px;
 }
